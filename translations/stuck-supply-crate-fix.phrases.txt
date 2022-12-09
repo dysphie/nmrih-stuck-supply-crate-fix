@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"You are too far away"
+	{
+		"en"	"You are too far away!"
+		"es"	"Estás muy lejos!"
+		"ko"	"너무 멀리 있습니다!"
+	}
+}
