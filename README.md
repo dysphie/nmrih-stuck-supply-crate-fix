@@ -1,3 +1,5 @@
+> ⚠️ This plugin is no longer needed as of NMRiH 1.13.2
+
 # [NMRiH] Stuck Supply Crate Fix
 
 Fixes an issue where players are permanently frozen after interacting with a supply crate. It does so by removing the movement lock altogether.
